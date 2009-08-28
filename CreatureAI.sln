@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatureAI", "CreatureAI\CreatureAI.csproj", "{EF391900-B572-49AC-8833-64F59B6F225A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{8B197DC0-D49C-4BD6-B8EC-8792838D3CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF391900-B572-49AC-8833-64F59B6F225A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF391900-B572-49AC-8833-64F59B6F225A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF391900-B572-49AC-8833-64F59B6F225A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF391900-B572-49AC-8833-64F59B6F225A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B197DC0-D49C-4BD6-B8EC-8792838D3CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B197DC0-D49C-4BD6-B8EC-8792838D3CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B197DC0-D49C-4BD6-B8EC-8792838D3CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B197DC0-D49C-4BD6-B8EC-8792838D3CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
